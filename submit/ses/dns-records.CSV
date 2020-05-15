@@ -1,0 +1,6 @@
+
+"DKIM record set:"
+"Record name","Record type","Record Value"
+"5tgpuxro3zgdlwsaszgvrb6qg6vjxejq._domainkey.mike30327.engineer","CNAME","5tgpuxro3zgdlwsaszgvrb6qg6vjxejq.dkim.amazonses.com"
+"azdducdjpwzkrynzojyau3aebto7yy3v._domainkey.mike30327.engineer","CNAME","azdducdjpwzkrynzojyau3aebto7yy3v.dkim.amazonses.com"
+"ggte4lkzjfl3x2pqm3oytuod3c2zqktg._domainkey.mike30327.engineer","CNAME","ggte4lkzjfl3x2pqm3oytuod3c2zqktg.dkim.amazonses.com"
